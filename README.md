@@ -1,6 +1,7 @@
 # BERTopic_Topic_Modelling
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/1050403474.svg)](https://doi.org/10.5281/zenodo.17054318)
 
 A Google Colab pipeline to extract, model, and visualize topics from bibliographic (`.ris`) data using BERTopic. This repository provides an end-to-end workflow for conducting automated thematic analysis on large volumes of scientific literature.
 

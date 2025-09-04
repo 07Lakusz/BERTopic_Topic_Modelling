@@ -15,7 +15,6 @@ A Google Colab pipeline to extract, model, and visualize topics from bibliograph
 - [How to Use](#how-to-use)
 - [Configuration](#configuration)
 - [Understanding the Output](#understanding-the-output)
-- [Example Visualization](#example-visualization)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 

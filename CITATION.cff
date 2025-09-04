@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software-code, please cite it as below."
+type: "software-code"
+authors:
+- family-names: "Juhász"
+  given-names: "László Péter"
+  orcid: "https://orcid.org/0009-0002-4535-1106"
+title: "BERTopic_Topic_Modelling"
+version: "0.1.0"
+doi: "10.5281/zenodo.17054318"
+date-released: "2025-09-04"
+url: "https://github.com/07Lakusz/BERTopic_Topic_Modelling"
